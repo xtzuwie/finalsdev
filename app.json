@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "plugins": [
+      "expo-font"
+    ],
+    "name": "e-book",
+    "slug": "e-book",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

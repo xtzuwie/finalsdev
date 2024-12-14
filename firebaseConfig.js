@@ -10,14 +10,14 @@ import { getFirestore } from "firebase/firestore"; // Import Firestore
 
 // Firebase configuration object
 const firebaseConfig = {
-  apiKey: "AIzaSyA410D64yNeSdtpfBu7rDs1_mkqc5dkXJs",
-  authDomain: "finals-gg.firebaseapp.com",
-  databaseURL: "https://finals-gg-default-rtdb.firebaseio.com",
-  projectId: "finals-gg",
-  storageBucket: "finals-gg.firebasestorage.app",
-  messagingSenderId: "884536190555",
+  apiKey: "REPLACE YOUR FIREBASE API KEY",
+  authDomain: "REPLACE YOUR FIREBASE DOMAIN",
+  databaseURL: "REPLACE WITH YOUR URL",
+  projectId: "FIREBASE ID",
+  storageBucket: "replace-yours.firebasestorage.app",
+  messagingSenderId: "REPLACE WITH YOUR ID",
   appId: "1:884536190555:web:26d96022e37d3ec1edc17e",
-  measurementId: "G-FK8V7MYWWE",
+  measurementId: "replace with ur id",
 };
 
 // Initialize Firebase

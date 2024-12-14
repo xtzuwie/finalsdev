@@ -78,7 +78,7 @@ const HomeScreen = ({ navigation }) => {
     if (!query.trim()) return;
 
     setIsLoading(true);
-    const API_KEY = "AIzaSyCSMc5X_Wy8KQNJAPD313i8SOyr86K2y98"; // Replace with your API key
+    const API_KEY = "Your Google Books API"; // Replace with your API key
     const API_URL = `https://www.googleapis.com/books/v1/volumes?q=${query}&key=${API_KEY}`;
 
     try {

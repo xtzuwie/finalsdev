@@ -1,1 +1,1 @@
-# practice for layout design in react native
+E-Book for Finals Project of Group 8 - B
